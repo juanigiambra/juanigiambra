@@ -11,4 +11,4 @@ Full-stack developer passionate about building clean, scalable, and user-friendl
 
 ##
 
-![](https://nirzak-streak-stats.vercel.app/?user=juanigiambra&theme=darcula&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=juanigiambra&theme=darcula&hide_border=false)
